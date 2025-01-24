@@ -84,6 +84,10 @@ Now, you should be able to switch to the Sepolia testnet from the MetaMask netwo
 ![op](https://github.com/user-attachments/assets/1b65d286-595b-4fe6-8601-f696a9d50f67)
 
 
+## Contributing:
+
+Contributions are welcome! Please open an issue to discuss proposed changes or submit a pull request.
+
 ##To run the project
 
 
