@@ -56,8 +56,30 @@ We are using RemixID for deploying the contract and generation of the ABI in the
   OPEN: RemixID
 ```
 
-#### Polygon Mumbai
+#STEPS TO ADD OP SEPOLIA TESTNET INTO YOUR METAMASK WALLET.
 
-```https://mumbai.polygonscan.com/
-  OPEN: Polygon Mumbai
-```
+
+1. OPEN METAMSK: Launch the MetaMask extension or app on your device.
+
+2. SELECT CUSTOM NETWORK:
+- In MetaMask, click on the network dropdown at the top (it might say "Ethereum Mainnet" by default).
+   - Choose "Add Network" to open the settings for adding a new network.
+
+3. ENTER SEPOLIA TESTNET DETAILS:
+   In the custom network configuration page, you'll need to input the following details for Sepolia:
+
+   - Network Name: Sepolia Testnet
+   - New RPC URL: https://sepolia.optimism.io/
+   - Chain ID: 11155420
+   - Currency Symbol: ETH
+   - Block Explorer URL: https://optimism-sepolia.blockscout.com
+
+
+4. Save the Network: Once all the details are entered, click Save.
+
+Now, you should be able to switch to the Sepolia testnet from the MetaMask network dropdown and use it for testing or interacting with Sepolia-based applications!
+
+#EXAMPLE
+ 
+![op](https://github.com/user-attachments/assets/1b65d286-595b-4fe6-8601-f696a9d50f67)
+
