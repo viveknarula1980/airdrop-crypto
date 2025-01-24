@@ -83,3 +83,8 @@ Now, you should be able to switch to the Sepolia testnet from the MetaMask netwo
  
 ![op](https://github.com/user-attachments/assets/1b65d286-595b-4fe6-8601-f696a9d50f67)
 
+
+##To run the project
+npm i
+
+npm run dev
