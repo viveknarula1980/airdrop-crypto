@@ -330,7 +330,7 @@ export const CONTEXT_Provider = ({ children }) => {
     try {
       setLoader(true);
 
-      //GET USER ACCOUNT
+      //USER ACCOUNT
       const account = await checkIfWalletConnected();
       const PROVIDER = await web3Provider();
       const signer = PROVIDER.getSigner();
