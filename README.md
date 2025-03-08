@@ -91,6 +91,6 @@ Contributions are welcome! Please open an issue to discuss proposed changes or s
 ##To run the project
 
 
-     npm i
+    npm install
 
     npm run dev
